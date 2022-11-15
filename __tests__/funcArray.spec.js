@@ -1,4 +1,4 @@
-import {maxOfTwoNumbers,
+/*import {maxOfTwoNumbers,
   findLongestWord,
   sumArray,
   averageNumbers,
@@ -8,6 +8,7 @@ import {maxOfTwoNumbers,
   howManyTimes,
   greatestProduct
 }  from '../src/funcArray.js';
+*/
 
 const shuffle = (currentArray) => {
 // let array = currentArray.slice();
